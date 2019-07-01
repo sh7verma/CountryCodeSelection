@@ -11,5 +11,5 @@ This Project contains all the countries name and their postal codes.
    - Contain name and code.
 
 Usage:- Call this Activity through Intent and get result on Activity result data parameters:-
-   - Country_Name
-   - Country_code
+   - Country_Name (Returns country name).
+   - Country_code (Returns country code).
